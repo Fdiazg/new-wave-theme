@@ -1,7 +1,8 @@
 {
-  "name": "wave-theme",
-  "displayName": "waveTheme",
+  "name": "new-wave-theme",
+  "displayName": "newWaveTheme",
   "description": "",
+  "publisher": "Fdiazg",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.98.0"
@@ -9,13 +10,25 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/Fdiazg/new-wave-theme"
+  },
   "contributes": {
     "themes": [
       {
-        "label": "waveTheme",
+        "label": "newWaveTheme",
         "uiTheme": "vs-dark",
-        "path": "./themes/waveTheme-color-theme.json"
+        "path": "./themes/newWaveTheme-color-theme.json"
       }
     ]
-  }
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "newWave",
+    "wave"
+  ],
+  "homepage": "https://github.com/Fdiazg/new-wave-theme/blob/main/README.md",
+  "license": "MIT"
 }
