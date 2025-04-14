@@ -36,7 +36,7 @@ Este tema, con inspiración retrofuturista, busca mantener la esencia retro de o
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](./LICENSE) para más detalles.
+Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](./LICENSE.md) para más detalles.
 
 ## Contribuciones
 
