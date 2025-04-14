@@ -5,7 +5,6 @@ Dark and modern theme inspired by retro futuristic style.
 ## Screenshots
 
 ![Theme preview](./images/image.png)
-![Theme preview](images/image.png)
 
 ## Why?
 
@@ -30,10 +29,6 @@ Contributions are welcome! If you have suggestions for improvements:
 # New Wave Theme (Español)
 
 Tema oscuro y moderno inspirado en un estilo retro-futurista.
-
-## Capturas de pantalla
-
-![Vista previa del tema](./images/image.png)
 
 ## ¿Por qué?
 
