@@ -1,7 +1,7 @@
 {
   "name": "new-wave-theme",
-  "displayName": "newWaveTheme",
-  "description": "",
+  "displayName": "New Wave Theme",
+  "description": "Dark and modern theme inspired by retro futuristic style",
   "publisher": "Fdiazg",
   "version": "0.0.1",
   "engines": {
@@ -10,14 +10,10 @@
   "categories": [
     "Themes"
   ],
-  "repository": {
-  "type": "git",
-  "url": "https://github.com/Fdiazg/new-wave-theme"
-  },
   "contributes": {
     "themes": [
       {
-        "label": "newWaveTheme",
+        "label": "New Wave Theme",
         "uiTheme": "vs-dark",
         "path": "./themes/newWaveTheme-color-theme.json"
       }
@@ -25,10 +21,23 @@
   },
   "keywords": [
     "theme",
+    "dark",
     "dark theme",
     "newWave",
-    "wave"
+    "wave",
+    "retro",
+    "futuristic",
+    "new"
   ],
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#1A1B26",
+    "theme": "dark"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fdiazg/new-wave-theme"
+    },
   "homepage": "https://github.com/Fdiazg/new-wave-theme/blob/main/README.md",
   "license": "MIT"
 }

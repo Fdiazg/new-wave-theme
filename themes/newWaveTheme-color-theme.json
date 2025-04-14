@@ -1,5 +1,5 @@
 {
-    "name": "newWaveTheme",
+    "name": "new-wave-theme",
     "type": "dark",
     "semanticHighlighting": true,
     "semanticTokenColors": {
@@ -316,7 +316,7 @@
       },
       {
         "name": "property-list.css",
-        "scope": "meta.property-list.css,source.css",
+        "scope": "meta.property-list.css",
         "settings": {
             "foreground": "#1ba9ad",
             
@@ -2269,6 +2269,8 @@
                 "punctuation.accessor.js.jsx",
                 "source.ts",
                 "punctuation.separator.comma.tsx",
+                "punctuation.separator.dictionary.pair.json",
+                "punctuation.separator.dictionary.key-value.json"
                 // "meta.function.tsx"
             ],
             "settings": {
@@ -2321,6 +2323,17 @@
         //         "foreground": "#f1c057" // Amarillo para propiedades de objetos
         //     }
         // },
+        {
+          "name": "Comment",  
+          "scope": [
+              "comment",
+              "punctuation.definition.comment"
+            ],
+              "settings": {
+                "fontStyle": "italic",
+                "foreground": "#848bbd"
+            }
+        },
 
           
     ],

@@ -1,36 +1,61 @@
-# newWaveTheme README
+# New Wave Theme
 
-Un tema oscuro para Visual Studio Code optimizado para desarrollo web moderno con React, Next.js, Astro, TypeScript, JavaScript, Node.js y Go.
-# 🎨 Características
+Dark and modern theme inspired by retro futuristic style.
 
-Optimizado para desarrollo web moderno - Especialmente diseñado para React, Next.js, Astro, TypeScript, y Go
-Colores distintivos para componentes - Los componentes, props, y hooks son fácilmente identificables
-Sintaxis mejorada para TypeScript - Resaltado especial para tipos, interfaces y genéricos
-Amigable a la vista - Paleta de colores diseñada para reducir la fatiga visual en largas sesiones de codificación
-Integración con Git - Colores intuitivos para cambios, adiciones y eliminaciones
+## Screenshots
 
-# 📸 Capturas de pantalla
-[Instrucciones: Cuando tengas el tema listo, añade algunas capturas de pantalla aquí mostrando cómo se ve el tema con diferentes lenguajes - React/JSX, TypeScript, Go, etc.]
+![Theme preview](./images/image.png)
+![Theme preview](images/image.png)
 
-# porque?
+## Why?
 
-# 🤝 Contribuciones
-Las contribuciones son bienvenidas! Si tienes sugerencias para mejorar este tema:
+This theme, with a retrofuturistic inspiration, aims to maintain the retro essence of other community designs through a warmer color palette.
 
-Haz fork del repositorio
-Crea una rama para tu característica (git checkout -b feature/amazing-improvement)
-Haz commit de tus cambios (git commit -m 'Añade una mejora increíble')
-Haz push a la rama (git push origin feature/amazing-improvement)
-Abre un Pull Request
+## License
 
-# 📄 Licencia
-Este proyecto está licenciado bajo la Licencia MIT - ver el archivo LICENSE para detalles.
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
-# 🙏 Agradecimientos
-Inspirado en los grandes temas oscuros de la comunidad de VS Code
-Gracias a todos los desarrolladores que comparten su feedback
+## Contributions
 
-¿Disfrutas usando este tema? ¡Dale una estrella en GitHub! Tu apoyo ayuda a mantener este proyecto.
+Contributions are welcome! If you have suggestions for improvements:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/improvement`)
+3. Commit your changes (`git commit -m 'Add improvement'`)
+4. Push to the branch (`git push origin feature/improvement`)
+5. Open a Pull Request
+
+---
+
+# New Wave Theme (Español)
+
+Tema oscuro y moderno inspirado en un estilo retro-futurista.
+
+## Capturas de pantalla
+
+![Vista previa del tema](./images/image.png)
+
+## ¿Por qué?
+
+Este tema, con inspiración retrofuturista, busca mantener la esencia retro de otros diseños de la comunidad a través de una paleta de colores más cálida.
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT - consulta el archivo [LICENSE](./LICENSE) para más detalles.
+
+## Contribuciones
+
+¡Las contribuciones son bienvenidas! Si tienes sugerencias para mejoras:
+
+1. Haz fork del repositorio
+2. Crea una rama de característica (`git checkout -b feature/mejora`)
+3. Haz commit de tus cambios (`git commit -m 'Añadir mejora'`)
+4. Haz push a la rama (`git push origin feature/mejora`)
+5. Abre un Pull Request
+
+---
+
+Made with ❤️ for the developer community.  
 Hecho con ❤️ para la comunidad de desarrolladores.
 
 **Enjoy!**
