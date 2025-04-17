@@ -2270,7 +2270,9 @@
                 "source.ts",
                 "punctuation.separator.comma.tsx",
                 "punctuation.separator.dictionary.pair.json",
-                "punctuation.separator.dictionary.key-value.json"
+                "punctuation.separator.dictionary.key-value.json",
+                "punctuation.accessor.ts.tsx",
+                "punctuation.accessor"
                 // "meta.function.tsx"
             ],
             "settings": {
@@ -2415,8 +2417,9 @@
 		"list.activeSelectionBackground": "#302c46",
 		"list.inactiveSelectionBackground": "#302c46",
 		"list.hoverBackground": "#252235",
-		"list.errorForeground": "#fe4450E6",
-		"list.warningForeground": "#016638bb",
+		"list.errorForeground": "#d63943e6",
+		// "list.warningForeground": "#016638bb",
+		 "list.warningForeground": "#D19A66",
 		"list.focusOutline": "#302c46",
 		
 		// ====== INPUTS Y ELEMENTOS INTERACTIVOS ======
